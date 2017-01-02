@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-demos",
+  "homepage": "https://github.com/colinbut/bootstrap-demos",
+  "authors": [
+    "Colin But <colinbut@users.noreply.github.com>"
+  ],
+  "description": "bootstrap demo",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
